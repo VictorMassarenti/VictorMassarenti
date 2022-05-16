@@ -4,7 +4,7 @@
 
 :mortar_board: <strong>Graduando em Ciências Econômicas na UFBA</strong>
 
-:raising_hand_man: **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
+:orange_circle:	 **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
 
 ## Learning...
 
