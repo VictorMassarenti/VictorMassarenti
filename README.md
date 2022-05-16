@@ -16,7 +16,7 @@
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 
 **Versioning and Communication**
-[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/victormassarenti/)](https://github.com/camillacorreia/)
+[![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 <!---
 VictorMassarenti/VictorMassarenti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
