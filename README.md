@@ -6,6 +6,12 @@
 
 :orange_circle:	 **Faço parte da Empresa Júnior de Engenharia da Computação da UFBA - [TITAN](https://titanci.com.br/)**
 
+<div align="center">
+  <a href="https://github.com/VictorMassarenti">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorMassarenti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMassarenti&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 ## Learning...
 
 **Languages**
