@@ -17,6 +17,8 @@
 **Languages**: 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-59C0EA?style=flat-square&logo=typescript&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
+[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
+  
 
 **Front-end**: 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
