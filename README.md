@@ -12,12 +12,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMassarenti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Conhecimento
+## Learning...
 
 **Languages**: 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-59C0EA?style=flat-square&logo=typescript&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
-[![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
   
 
 **Front-end**: 
