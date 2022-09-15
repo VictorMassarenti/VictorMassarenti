@@ -12,7 +12,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMassarenti&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Learning...
+## Conhecimento
 
 **Languages**: 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
