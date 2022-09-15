@@ -26,6 +26,8 @@
 [![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=Next.js&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 [![Styled-components](https://img.shields.io/badge/-Styled%20Components-DBDBE0?style=flat-square&logo=styled-components)](https://github.com/victormassarenti/)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+[![TailwindCSS](https://img.shields.io/badge/-Tailwind-white?style=flat-square&logo=tailwindcss&link=https)](https://github.com/victormassarenti/)
+
 
 **Design**
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/victormassarenti/)
