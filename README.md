@@ -42,6 +42,12 @@
 **Others Technologies**: 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
+![Vite](https://img.shields.io/badge/-Vite-ffd129?style=flat-square&logo=Vite&link=https://github.com/victormassarenti/)
+
+
+**Database**:
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&link=https://github.com/victormassarenti/)
+
 
 <!---
 VictorMassarenti/VictorMassarenti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
