@@ -30,7 +30,9 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![React-Native](https://img.shields.io/badge/-React%20Native-white?style=flat-square&logo=react&link=https)
   
-
+**Back-end**: 
+[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
+[![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 
 **Design**
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/victormassarenti/)
@@ -40,14 +42,17 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 
 **Others Technologies**: 
-[![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 [![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 ![Vite](https://img.shields.io/badge/-Vite-ffd129?style=flat-square&logo=Vite&link=https://github.com/victormassarenti/)
 
 
 **Database**:
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=SQLite&link=https://github.com/victormassarenti/)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=PostgreSQL&link=https://github.com/victormassarenti/)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=Prisma&link=https://github.com/victormassarenti/)
 
+**Testing**:
+![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=Jest&link=https://github.com/victormassarenti/)
 
 <!---
 VictorMassarenti/VictorMassarenti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
