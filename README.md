@@ -34,6 +34,7 @@
 **Back-end**: 
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 [![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
+[![Gin](https://img.shields.io/badge/-Gin-black?style=flat-square&logo=gin&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 
 **Design**
 [![Figma](https://img.shields.io/badge/-Figma-ffbaba?style=flat-square&logo=figma)](https://github.com/victormassarenti/)
