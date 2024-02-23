@@ -17,6 +17,7 @@
 **Languages**: 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-59C0EA?style=flat-square&logo=typescript&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
+[![Go](https://img.shields.io/badge/-Go-FFF?style=flat-square&logo=go&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
   
 
 **Front-end**: 
