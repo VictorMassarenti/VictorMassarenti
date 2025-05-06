@@ -17,6 +17,7 @@
 **Languages**: 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
 [![Go](https://img.shields.io/badge/-Go-FFF?style=flat-square&logo=go&link=https://github.com/victormassarenti/)](https://github.com/victormassarenti/)
   
 
