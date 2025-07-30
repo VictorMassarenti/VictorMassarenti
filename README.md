@@ -4,7 +4,7 @@
 
 :mortar_board: <strong>Graduando em Análise e Desenvolvimento de Sistemas</strong>
 
-:orange_circle:	 **Software Engineer at iTech Tecnologia**
+:orange_circle:	 **Software & AI Engineer at Dizevolv**
 
 <div align="center">
   <a href="https://github.com/VictorMassarenti">
