@@ -18,21 +18,29 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=FFFFFF)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=FFFFFF)
 
 **Front-end**: 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=FFFFFF)
-![Material UI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=FFFFFF)
 ![Shadcn/ui](https://img.shields.io/badge/-Shadcn/ui-000000?style=flat-square&logo=shadcnui)
 
 **Back-end**: 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=FFFFFF)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
-![Gin](https://img.shields.io/badge/-Gin-1f57a7?style=flat-square&logo=gin&logoColor=FFFFFF)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=FFFFFF)
 ![Fastify](https://img.shields.io/badge/-Fastify-000000?style=flat-square&logo=fastify)
+
+**IA**:
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=FFFFFF)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=FFFFFF)
+![LangSmith](https://img.shields.io/badge/-LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=FFFFFF)
+![Langfuse](https://img.shields.io/badge/-Langfuse-000000?style=flat-square&logo=langfuse&logoColor=FFFFFF)
+![Mastra](https://img.shields.io/badge/-Mastra-6366F1?style=flat-square&logo=mastra&logoColor=FFFFFF)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=FFFFFF)
+![Langflow](https://img.shields.io/badge/-Langflow-4B5563?style=flat-square&logo=langflow&logoColor=FFFFFF)
+![OpenAI](https://img.shields.io/badge/-OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=FFFFFF)
+![OpenRouter](https://img.shields.io/badge/-OpenRouter-8B5CF6?style=flat-square&logo=openrouter&logoColor=FFFFFF)
 
 **Versioning and Communication**: 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF)
@@ -44,9 +52,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=FFFFFF)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=FFFFFF)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=FFFFFF)
-
-**Testing**:
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=FFFFFF)
 
 **Other Technologies**
 ![Linear](https://img.shields.io/badge/-Linear-5E6AD2?style=flat-square&logo=linear&logoColor=FFFFFF)
